@@ -20,7 +20,6 @@ C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreap
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.runtimeconfig.dev.json
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.dll
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.pdb
-C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.csprojResolveAssemblyReference.cache
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.csproj.CoreCompileInputs.cache
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.AssemblyInfoInputs.cache
 C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.AssemblyInfo.cs
