@@ -5645,11 +5645,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joel\\source\\repos\\Clearent\\Clearent\\Clearent.csproj",
+      "projectUniqueName": "C:\\Users\\Joel\\Documents\\GitHub\\ReubenOtero\\Clearent\\Clearent\\Clearent.csproj",
       "projectName": "Clearent",
-      "projectPath": "C:\\Users\\Joel\\source\\repos\\Clearent\\Clearent\\Clearent.csproj",
+      "projectPath": "C:\\Users\\Joel\\Documents\\GitHub\\ReubenOtero\\Clearent\\Clearent\\Clearent.csproj",
       "packagesPath": "C:\\Users\\Joel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joel\\source\\repos\\Clearent\\Clearent\\obj\\",
+      "outputPath": "C:\\Users\\Joel\\Documents\\GitHub\\ReubenOtero\\Clearent\\Clearent\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

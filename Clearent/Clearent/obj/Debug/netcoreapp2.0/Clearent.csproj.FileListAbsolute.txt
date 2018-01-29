@@ -12,3 +12,17 @@ C:\Users\Joel\source\repos\Clearent\Clearent\bin\Debug\netcoreapp2.0\nunit.engin
 C:\Users\Joel\source\repos\Clearent\Clearent\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
 C:\Users\Joel\source\repos\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.runtimeconfig.json
 C:\Users\Joel\source\repos\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.runtimeconfig.dev.json
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.deps.json
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.runtimeconfig.json
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.runtimeconfig.dev.json
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.dll
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\bin\Debug\netcoreapp2.0\Clearent.pdb
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.AssemblyInfoInputs.cache
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.AssemblyInfo.cs
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.dll
+C:\Users\Joel\Documents\GitHub\ReubenOtero\Clearent\Clearent\obj\Debug\netcoreapp2.0\Clearent.pdb
